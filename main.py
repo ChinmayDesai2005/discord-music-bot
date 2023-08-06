@@ -3,7 +3,7 @@ from discord.ext import commands
 import music
 import asyncio
 
-TOKEN = "ODkxOTE3MTE2MzczMTAyNjUz.GPQgnj.5qc-jWv9K69Sl0wIAKvKzg3uBWCnSJ7-y70jWo"
+TOKEN = "INSERT_DISCORD_TOKEN_HERE"
 
 cogs = ["music"]
 intents = discord.Intents.all()
